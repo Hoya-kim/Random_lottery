@@ -312,4 +312,3 @@ var settings = {
 	});
 
 })(jQuery);
-
