@@ -10,5 +10,5 @@
 
 ## Screenshot
 
-![스크린샷](./images/스크린샷.png)
-![스크린샷2](./images/스크린샷2.png)
+![screenshot1](./images/screenshot1.png)
+![screenshot2](./images/screenshot2.png)
